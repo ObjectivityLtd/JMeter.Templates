@@ -1,1 +1,2 @@
 # JMeter.Templates
+test
